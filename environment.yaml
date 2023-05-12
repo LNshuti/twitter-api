@@ -1,0 +1,12 @@
+name: twitter-api
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - fastapi
+    - uvicorn[standard]
+    - selenium
+    - python-chromedriver-binary==<version>  # Replace <version> with the desired version of chromedriver-binary
