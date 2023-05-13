@@ -9,4 +9,3 @@ dependencies:
     - fastapi
     - uvicorn[standard]
     - selenium
-    - python-chromedriver-binary  # Replace <version> with the desired version of chromedriver-binary
