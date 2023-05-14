@@ -7,8 +7,10 @@ It should also come with a test, and be extensible enough that I can easily adap
 ## Acceptance Criteria
 Include a Github or other experience. The best application will be one that has already built as much of it as possible.
 
+# Solution 
+arn:aws:lambda:us-east-1:755164003878:function:twitter-api
 
-# How to use this solution 
+## How to extend this solution 
 
 ```bash
 
@@ -23,8 +25,5 @@ conda env create -f environment.yml
 
 # Run the app
 $ python app.py
-# Link to aws lambda application
-https://twitter-api.lnshuti.repl.co/
 
-# ARN
-arn:aws:lambda:us-east-1:755164003878:function:twitter-api
+
