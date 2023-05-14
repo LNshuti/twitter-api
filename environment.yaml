@@ -7,6 +7,7 @@ dependencies:
   - pip
   - pip:
     - fastapi
+    - requests
     - uvicorn[standard]
     - selenium
     - python-chromedriver-binary  # Replace <version> with the desired version of chromedriver-binary
