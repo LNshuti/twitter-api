@@ -22,3 +22,5 @@ conda env create -f environment.yml
 
 # Run the app
 $ python app.py
+# Link to aws lambda application
+https://twitter-api.lnshuti.repl.co/
