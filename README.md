@@ -8,8 +8,8 @@ It should also come with a test, and be extensible enough that I can easily adap
 Include a Github or other experience. The best application will be one that has already built as much of it as possible.
 
 # Solution 
-arn:aws:lambda:us-east-1:755164003878:function:twitter-api
-
+[arn:aws:lambda:us-east-1:755164003878:function:twitter-api
+](https://fsmx2z5i2ps6s4mqfalv63jot40qazbj.lambda-url.us-east-1.on.aws/)
 ## How to extend this solution 
 
 ```bash
